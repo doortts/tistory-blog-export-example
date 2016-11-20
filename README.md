@@ -1,4 +1,4 @@
-tistory backup 이동 샘플
+Tistory backup 이동 샘플 프로젝트
 ---
 
 https://github.com/doortts/tistory-backup-extractor 를 이용해서 github wiki 로 백업을 이동시킨 샘플
